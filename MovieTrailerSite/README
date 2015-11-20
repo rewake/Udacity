@@ -1,0 +1,7 @@
+Richard's Movie Trailers!
+
+Description:
+This package generates an HTML file which will show the world some of my favorite movies.
+
+Instructions:
+Simply run the __main__.py file to generate the 'richards_movies.html' HTML file. The generated HTML file will automatically open in a new browser window once generated.
